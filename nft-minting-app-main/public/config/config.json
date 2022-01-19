@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x34fedeCa7b1b65c625967C87c1FA152095C6c919",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x173fb04e061291403790877a686ea5b931a33d09",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 80001
+  },
+  "NFT_NAME": "CrypticDraft",
+  "SYMBOL": "DTCS",
+  "MAX_SUPPLY": 250,
+  "WEI_COST": 20000000000000000,
+  "DISPLAY_COST": 0.02,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/crypticdraft",
+  "SHOW_BACKGROUND": true
+}
